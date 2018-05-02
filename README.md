@@ -14,7 +14,7 @@
 
 #### Machine leardning Model Tutorial:
 ##### Pyhton 3.5.3 verison is required
-#### Packages
+#### Packages:
 1. [Scikit learn](http://scikit-learn.org/stable/install.html)
 2. [Pandas](https://pandas.pydata.org/)
 3. [Numpy](https://www.scipy.org/scipylib/download.html)
